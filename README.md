@@ -2,10 +2,11 @@
 
 Windows 10 Tiles customizer
 
-![SC1](https://github.com/Gwynevere/TilesEditor/blob/main/blob/assets/red-black-fs.PNG)
-![SC2](https://github.com/Gwynevere/TilesEditor/blob/main/blob/assets/red-grey-fs.PNG)
-![SC3](https://github.com/Gwynevere/TilesEditor/blob/main/blob/assets/yellow-black.PNG)
-![SC4](https://github.com/Gwynevere/TilesEditor/blob/main/blob/assets/yellow-black-fs.PNG)
+![SC1](https://github.com/Gwynevere/TilesEditor/blob/main/blob/assets/yellow-black.PNG)
+![SC2](https://github.com/Gwynevere/TilesEditor/blob/main/blob/assets/yellow-black-fs.PNG)
+![SC3](https://github.com/Gwynevere/TilesEditor/blob/main/blob/assets/red-black-fs.PNG)
+![SC4](https://github.com/Gwynevere/TilesEditor/blob/main/blob/assets/red-grey-fs.PNG)
+
 
 # Installation
 
