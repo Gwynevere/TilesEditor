@@ -21,7 +21,7 @@ The script will edit any tile that validate the following constraints :
 
 If any image is in `path_background_images` it will be applied as a background for the tile
 
-###`config.json` file :
+#### `config.json` file
 
 - `tiles_locations` list of folders containing windows shortcuts `.lnk` pinned in start menu
 - `path_images` images folder path to use for tiles
@@ -29,7 +29,7 @@ If any image is in `path_background_images` it will be applied as a background f
 - `text_color` text color (`light` | `dark`)
 - `text_color_fill` text color in fill mode (`light` | `dark`)
 
-###Images names properties :
+#### Images names properties
 - Tile image can be set to fill mode, image will fill all the tile square by adding `.fill` to file name. eg: to set vortex tile image into fill mode I will set `Vortex.fill.png` as the image file name 
 
 >To change a tile background color and image, the `.lnk` file name (found in `tiles_locations`) must be
