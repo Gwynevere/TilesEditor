@@ -2,7 +2,7 @@
 
 Windows 10 Tiles customizer
 
-![SC1](https://github.com/Gwynevere/TilesEditor/blob/assets/red-black-fs.png)
+![SC1](https://github.com/Gwynevere/TilesEditor/blob/main/blob/assets/assets/red-black-fs.png)
 ![SC2](https://github.com/Gwynevere/TilesEditor/blob/assets/red-grey-fs.png)
 ![SC3](https://github.com/Gwynevere/TilesEditor/blob/assets/yellow-black.png)
 ![SC4](https://github.com/Gwynevere/TilesEditor/blob/assets/yellow-black-fs.png)
