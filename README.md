@@ -37,7 +37,7 @@ the same as the corresponding `image` name (found in `path_images`)
 
 >Disable Windows transparency for better results
 
-#Resources
+# Resources
 Icons link [icons8](https://icons8.com/icons)
 
 # License
